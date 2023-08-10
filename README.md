@@ -1,1 +1,2 @@
-I am studying at SRIT
+I am studying at SRIT in EEE
+
